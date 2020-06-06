@@ -1,7 +1,7 @@
 {
   "name": "my-cli",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "author": "Valen <wang_wenl@worksap.co.jp>",
   "license": "MIT",
   "resolutions": {
