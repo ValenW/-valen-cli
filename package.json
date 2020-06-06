@@ -2,6 +2,7 @@
   "name": "my-cli",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "bin": "bin/my-cli.js",
   "author": "Valen <wang_wenl@worksap.co.jp>",
   "license": "MIT",
   "resolutions": {
