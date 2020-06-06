@@ -1,10 +1,14 @@
 {
-  "name": "my-cli",
-  "version": "1.0.0",
+  "name": "@valen/cli",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "bin": "bin/my-cli.js",
-  "author": "Valen <wang_wenl@worksap.co.jp>",
+  "author": "Valen <wwl0816@qq.com>",
   "license": "MIT",
+  "files": [
+    "bin",
+    "lib"
+  ],
   "resolutions": {
     "bin-wrapper": "npm:bin-wrapper-china"
   },
