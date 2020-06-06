@@ -1,8 +1,10 @@
 {
-  "name": "@valen/cli",
-  "version": "0.1.0",
+  "name": "@valenw/cli",
+  "version": "0.0.2",
   "main": "lib/index.js",
-  "bin": "bin/my-cli.js",
+  "bin": {
+    "cli": "bin/my-cli.js"
+  },
   "author": "Valen <wwl0816@qq.com>",
   "license": "MIT",
   "files": [
